@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 320px;
+    margin: 20px auto;
+}
+
+.card {
+    width: 70px;
+    height: 100px;
+    margin: 5px;
+    background-color: blue;
+    color: white;
+}
